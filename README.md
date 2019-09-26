@@ -6,15 +6,15 @@ Vulnerability scanning and so on.
 This Tool can Automate some Degital Forensics practices to make a research on evidence even 
 easier.
 
-This Tool is still in developement ,so this is an early access verion of NoJLede
+This Tool is still in developement ,so this is an early access verion of NoJLede.
 
 
-Note: Use Kali Linux to run this code  
+Note: Use Kali Linux to run this code.  
 
 IMPORTANT:THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY WE NOT RESPONSIBLE FOR ANY BLACKHAT ACTIVITY 
 
 
-
+![NoJlede](https://user-images.githubusercontent.com/30495066/65699337-cd5e3280-e032-11e9-993a-4ebacf5314a5.png)
 
 
 
