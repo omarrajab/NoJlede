@@ -57,7 +57,7 @@ NNNNNNNN         NNNNNNN   ooooooooooo        JJJJJJJJJ       llllllll    eeeeee
                       [24] Vulnerability Scanning             [30] DDOS
                       [25] Operating System Scanning          [31] Whois
                       [26] WPS Scan                           [32] IpGeolocation
-                       \033[1;31m======================[METADATA ANALYSER/DEGITAL FORENSICS]======================
+                       \033[1;31m======================[METADATA ANALYSER/DIGITAL FORENSICS]======================
                       [33] Exif Data                          [40] DiskDump(Specific Partition)
                       [34] Metagoofil                         [41] DiskDump with dcfldd
                       [35] Dump Password Hash                 [42] Volatility(Memory Forensics)
