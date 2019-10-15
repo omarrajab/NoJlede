@@ -25,6 +25,9 @@ WE ARE NOT RESPONSIBLE FOR ANY BLACKHAT ACTIVITY.
 
 # Usage
 $ cd NoJlede/
+$pip3 install scapy
+
+$pip3 install geocoder
 
 $ python3 NoJlede.py
 
