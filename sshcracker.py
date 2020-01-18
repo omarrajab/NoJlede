@@ -1,5 +1,5 @@
 ###Author: Omar Rajab
-###Company: CyberMO
+###Company: BlackHatch
 
 
 import pxssh
@@ -9,8 +9,8 @@ import time
 os.system("clear")
 print("\033[1;33mA Simple SSH Bruteforce Tool")
 print("\033[1;33mAuthor: Omar Rajab Security Researcher")
-print("\033[1;33mEmail:orajab@cyber-mo.com")
-print("\033[1;33mCompany: Cyber-Mo")
+print("\033[1;33mEmail:omarrajab400@gmail.com")
+print("\033[1;33mCompany: BlackHatch")
 print("\033[1;33mVersion: 1.0")
 print("\033[1;33mLicensed by: MIT")
 
